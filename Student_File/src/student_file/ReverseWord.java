@@ -9,8 +9,8 @@ package student_file;
 import java.util.Scanner;
 
 /**
- *
- * @author camwi
+ *  Hello there.
+ * @author Cameron
  */
 public class ReverseWord {
     public static void main(String[] args){
