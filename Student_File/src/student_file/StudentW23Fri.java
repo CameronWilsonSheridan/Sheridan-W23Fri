@@ -30,4 +30,16 @@ public class StudentW23Fri {
     public String getStudentName(){
         return StudentName;
     }
+
+    public void setStudentName(String StudentName) {
+        this.StudentName = StudentName;
+    }
+
+    public String getStudentW23Fri() {
+        return StudentW23Fri;
+    }
+
+    public void setStudentW23Fri(String StudentW23Fri) {
+        this.StudentW23Fri = StudentW23Fri;
+    }
 }
